@@ -84,7 +84,7 @@
   ],
   "servers": [
     {
-      "url": "https://google.serper.dev"
+      "url": "https://cn2us02.opapi.win/api/v1/openapi/search/serper/v1"
     }
   ]
 }
