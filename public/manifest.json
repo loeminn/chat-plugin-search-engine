@@ -14,5 +14,6 @@
   "logo_url": "https://registry.npmmirror.com/@lobehub/fluent-emoji-3d/1.1.0/files/assets/1f50d.webp",
   "name_for_human": "网络搜索",
   "name_for_model": "search-engine-serper",
-  "schema_version": "v1"
+  "schema_version": "v1",
+  "identifier": "search-engine-serper-ohmygpt",
 }
