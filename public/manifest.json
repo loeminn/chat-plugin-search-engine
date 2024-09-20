@@ -8,12 +8,11 @@
     "type": "none"
   },
   "contact_email": "33831597+GithuBarry@users.noreply.github.com",
-  "description_for_human": "通过Serper Api调用Google搜索获取信息",
+  "description_for_human": "通过Serper Api(ohmygpt中转)调用Google搜索获取信息",
   "description_for_model": "Plugin for performing web searches using the Serper.dev API to access Google search results.",
   "legal_info_url": "https://serper.dev/terms",
   "logo_url": "https://registry.npmmirror.com/@lobehub/fluent-emoji-3d/1.1.0/files/assets/1f50d.webp",
   "name_for_human": "网络搜索",
-  "name_for_model": "search-engine-serper",
+  "name_for_model": "search-engine-serper-ohmygpt",
   "schema_version": "v1",
-  "identifier": "search-engine-serper-ohmygpt",
 }
